@@ -1,7 +1,5 @@
 ---
 title: "Facultaire studentenraad FNWI"
-author: "FSR FNWI"
-date: "2023-02-15"
 output: 
   flexdashboard::flex_dashboard:
     storyboard: true
@@ -10,7 +8,6 @@ output:
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
 ```
-
 ### Wat is de studentenraad?
 
 #### Wat doet de raad?
@@ -44,9 +41,12 @@ Mocht je meer informatie willen of heb jij vragen over hoe jij de raad in moet k
 To participate in the Faculty Council elections, you must join an existing student party or set up a new (one-man) party. This can be done until 19 April although some student parties have set the deadline earlier. Subsequently, fellow students can vote for their favourite candidate during the campaign week in May. There are two parties at the FNWI: Lief and SLAAFS.
 
 ### Commissies
-De studentenraad bestaat uit drie commissies: 
+De studentenraad bestaat uit drie commissies:
+
 - Commissie voor Faciliteiten en Publieke relaties
+
 - Commissie voor Facultaire Onderwijszaken
+
 - Commissie voor Reglementen en Opleidingen
 
 #### Faciliteiten en Publieke relaties
