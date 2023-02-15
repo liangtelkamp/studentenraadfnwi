@@ -3,6 +3,7 @@ title: "Facultaire studentenraad FNWI"
 output: 
   flexdashboard::flex_dashboard:
     storyboard: true
+    css: style.css
 ---
 
 ```{r setup, include=FALSE}
