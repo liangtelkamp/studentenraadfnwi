@@ -1,0 +1,41 @@
+---
+title: "index.Rmd"
+author: "Studentenraad FNWI"
+date: "2023-02-15"
+output: 
+  flexdashboard::flex_dashboard:
+    storyboard: true
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+### Wat is de studentenraad?
+
+### Wat doet de studentenraad?
+
+#### Wat doet de raad?
+Iedere faculteit binnen de UvA heeft een eigen Facultaire Studentenraad (FSR), waarvan de raadsleden jaarlijks democratisch gekozen worden door de studenten. De FSR vertegenwoordigt de belangen van de studenten binnen de faculteit en zet zich in voor een optimaal onderwijsklimaat voor alle studenten op de FNWI. Dit doen we door te luisteren naar studenten en adviezen uit te brengen aan het bestuur van de faculteit. Ook brengen we ongevraagde adviezen uit op eigen initiatief. De raad bestaat uit twaalf raadsleden die zich bezighouden met diverse onderwerpen die belangrijk zijn voor studenten binnen de faculteit, zoals onderwijszaken, mentale gezondheid, sociale veiligheid en diversiteit. We behandelen en keuren ook ieder jaar de Onderwijs- en Examenregelingen (OER) goed.
+#### Vergaderingen
+Als raadslid vergader je elke week één keer met de commissie waar je lid van bent. Hier bespreek je de voortgang van je werk en de acties die je gaat ondernemen. Er is ook één keer per week een plenaire vergadering waar alle raadsleden bij elkaar komen en beslissingen nemen over adviezen die de raad gaat geven. Daarnaast zijn er ook vergaderingen met het directieteam, medewerkers, opleidingscommissies en studenten.
+
+#### Taakverdeling
+
+De taakverdeling binnen de raad is zo opgezet dat het functioneren van de raad zo efficiënt mogelijk verloopt. Aan het begin van ieder raadsjaar wordt er een Dagelijks Bestuur (DB) ingesteld, bestaande uit een voorzitter, vicevoorzitter en een secretaris. Hun taak is om de structuur binnen de raad te waarborgen en een prettige werksfeer te creëren. Alle raadsleden zijn onderverdeeld in één van de drie commissies die ze zelf hebben gekozen: de Faciliteiten- en Publieke relatiescommissie (FPC), de Commissie Facultair Onderwijs (CFO) of de Commissie Opleidingsspecifiek Onderwijs (COO). De FPC is verantwoordelijk voor dossiers met betrekking tot faciliteiten binnen de FNWI, zoals mentale gezondheid, duurzaamheid en diversiteit. Deze commissie is ook verantwoordelijk voor communicatie vanuit de raad richting studenten. De CFO houdt zich bezig met alle zaken over facultair onderwijs die niet specifiek zijn voor een opleiding en geeft adviezen aan het directieteam over de OER A. De COO richt zich op verbetering van de OER B, waarin opleidingsspecifieke zaken staan, en onderwerpen zoals flexstuderen en nieuwe opleidingen.
+
+#### Ben jij geïnteresseerd in het bijdragen aan de faculteit en op zoek naar een uitdagende en gezellige ervaring? 
+Dan is de studentenraad iets voor jou. Als raadslid leer je nieuwe mensen kennen en doe je samen leuke dingen, zoals weekendjes weg en gezellige borrels na vergaderingen.
+Spreekt de raad je aan en ben jij: 
+Ingeschreven als student bij een opleiding aan de FNWI;
+Een kritische denker;
+Geïnteresseerd in de beleidsvraagstukken binnen de faculteit;
+Flexibel in verband met wisselende uren en vaste vergadermomenten;
+Enthousiast over het idee bij te dragen aan de faculteit!
+
+Aarzel niet om je aan te melden als raadslid voor de FSR FNWI 23/24. Mocht je nog vragen hebben over de studentenraad, neem dan gerust contact op of kom langs bij A0.10!
+
+
+### Hoe kom ik in de studentenraad?
+
+
